@@ -124,6 +124,7 @@ overflow: hidden;
 vertical-align: top;
 margin: auto 0;
 word-wrap: break-word;
+display: inline-block;
 
 }
 .introipsum{
@@ -136,9 +137,14 @@ word-wrap: break-word;
 	
 }
 .supportipsum{
+	float:left;
+	margin:auto;
 
 }
 .cancelipsum{
+	float:right;
+	margin:auto;
+	
 
 }
 
