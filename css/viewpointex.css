@@ -1,0 +1,144 @@
+body-style: {
+	font-family: Helvetica;
+}
+.header{
+	display: inline-block;
+	color: grey;
+	background-color: transparent;
+	padding-top:0px;
+	margin-left: 1px;
+	margin-right: 1px;
+	font-size: 10px;
+	font-family: helvetica;
+}
+span + span{
+ margin-left: 3vw;
+
+}
+.IntroductionPic{
+	background-image:url(..//images/background.jpg);
+	height: 200 px; 
+	width: cover; 
+	font-size: 2vh;
+	overflow: hidden;
+	text-align: center;
+	color:white;
+	margin: 0 auto;
+	vertical-align: middle;
+	font-family: helvetica;
+	padding:; 30px;
+}
+
+.tables{
+	background-color: white;
+	overflow: hidden;
+	font-family: helvetica;
+	padding-right: 90px;
+	padding-left: 90px;
+}
+ul{
+	text-align: center;
+	margin-right:auto;
+	margin-left: auto;
+	display: inline-block;
+	list-style-type: none;
+}
+li{
+	border: darkgrey solid 1px;
+}
+.packages{
+	vertical-align: middle;
+	text-align: center;
+	width: 30%;
+	height: 260;
+	font-family: helvetica;
+	list-style-type: none;
+
+}
+.benefits{
+	color: darkgrey;
+	background-color:lightgrey;
+	border: solid 1px darkgrey;
+	list-style-type: none;
+	padding: 0;
+}
+.package-personal{
+	float: left;
+	margin-right: 30px;
+}
+.package-smallbusiness{
+	float:left;
+	margin-right: 30px;
+}
+.package-enterprise{
+	float: left;
+	margin-right: 30px;
+}
+
+.header-smallbusiness{
+background-color: rgb(41,78,131);
+height: 100px;
+color: white;
+}
+.header-enterprise{
+background-color: black;
+height: 100px;
+color: white;
+margin: 0,auto;
+text-align: center;
+width: 
+}
+.header-personal{
+background-color:rgb( 97,140,83);
+height: 100px;
+
+}
+.choose{
+background-color: white;
+overflow:hidden;
+height: 80px;
+border: 1px darkgrey solid;
+margin: 0,auto;
+width: 25%
+text-align: center;
+margin-right:auto;
+margin-left: auto;
+}
+.button{
+border-radius: 20em;
+border: solid black;
+background-color: white;
+width: 93px;
+color: black;
+height: 40px;
+text-align: center;
+margin-right:auto;
+margin-left: auto;
+font-size: 20px;
+padding-top:  10px;
+}
+
+.ipsums{
+line-height: 110%;
+overflow: hidden;
+vertical-align: top;
+margin: auto 0;
+word-wrap: break-word;
+
+}
+.introipsum{
+	float:left;
+	margin:auto;
+}
+.paymentipsum{
+	float:right;
+	margin:auto;
+	
+}
+.supportipsum{
+
+}
+.cancelipsum{
+
+}
+
